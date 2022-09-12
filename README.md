@@ -1,7 +1,7 @@
 - 👋 Hi, I’m faith
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning  JavaScript 
-- 📫  twitter @aik_fikan
+- 📫 www.linkedin.com/in/fktona
 
 
 <!---
