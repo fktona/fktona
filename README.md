@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web developer
 ----------------------
 
-I'm an aspiring pharmacist and also enjoy coding
+I'm a frontend developer
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [adetona.fk@gmail.com](mailto:adetona.fk@gmail.com )
