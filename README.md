@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faith
+My name is Faith
 =============================================================================================================================
 
 Frontend Web developer
@@ -16,7 +16,7 @@ I'm a frontend developer
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
                     
-                 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fktona&hide_total_contributions=true)](https://git.io/streak-stats)                
                   
                   
      
