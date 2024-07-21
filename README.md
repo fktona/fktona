@@ -1,7 +1,7 @@
 My name is Faith
 =============================================================================================================================
 
-Frontend Web developer
+Software Developer
 ----------------------
 
 I'm a frontend developer
